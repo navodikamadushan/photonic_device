@@ -2,7 +2,7 @@
 
 % Copyright (c) 2021 Navodika Karunasingha <navodikaefac@gmail.com>
 function [t_new,signal_new] = upsampling_h(signal,t,factor)
-t_max=t(length(t))
+t_max=t(length(t));
 dt=t_max/(length(signal)*factor);
 t_new=t(1)-1:dt:(t_max-dt);
 signal_new=[];
