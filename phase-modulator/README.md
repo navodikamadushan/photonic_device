@@ -4,7 +4,7 @@ phase modulator changes the phase of the optical wave in accordance of the appli
 - MATLAB 2018
 
 ## Dependencies
-upsample_h.m
+`upsample_h.m`
 
 ## Installation and Run
 Make sure to install Pre-requisites and availability of dependencies. <br/>
