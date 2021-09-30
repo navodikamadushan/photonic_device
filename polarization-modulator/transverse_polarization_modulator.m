@@ -60,7 +60,6 @@ title("Phase Retardation of LiNO_{3} Transverse Polarization modulated optical s
 
 subplot(3,1,3)
 plot(t_up,d_pi_2,'g','LineWidth',2);
-
 xlabel('time')
 ylabel('Phase Retardation')
 title("Phase Retardation of GaAs Longitudinal Polarization modulated optical signal (\lambda ="+lambda*1e06+"\mu m)")
