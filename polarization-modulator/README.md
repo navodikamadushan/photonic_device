@@ -6,7 +6,7 @@ polarization modulator changes the polarization or phase retardation of the opti
 ## Dependencies
 `upsample_h.m`
 ## Installation and Run
-Make sure to install Pre-requisites and availability of dependencies.
+Make sure to install Pre-requisites and availability of dependencies.</br>
 Run `transverse_polarization_modulator.m` file
 
 ## Functions
